@@ -214,7 +214,6 @@ DEPENDENCIES
   github-pages
   jekyll (= 3.5.2)
   jekyll-feed (~> 0.6)
-  jekyll-theme-midnight
   tzinfo-data
 
 BUNDLED WITH
