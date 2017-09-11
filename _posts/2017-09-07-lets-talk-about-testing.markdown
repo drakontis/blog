@@ -4,8 +4,8 @@ title:  "Let's talk about testing"
 date:   2017-09-07 12:31:01 +0300
 ---
 
-Today i would like to talk about testing. 
-I always find posts about "unit testing", "integration testing" etc. In this post I will try to avoid such terms and i will focus on what exactly a test is and why we need a test suite.
+Today I would like to talk about testing. 
+I always find posts about "unit testing", "integration testing" and other testing methodologies. In this post I will try to avoid such terms and instead I will focus on what exactly a test is and why we need a test suite.
 
 First of all we need to understand what a test is. A test is nothing more than a procedure that confirms if something works as expected.
 For example, if we want to test that a fridge works fine, we can put a thermometer inside and check if the temperature is the expected.
